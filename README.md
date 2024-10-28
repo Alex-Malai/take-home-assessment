@@ -1,2 +1,2 @@
-# take-home-assessment
-Degreed Take Home Assessment
+# take-home-assignment
+Degreed Take Home assignment

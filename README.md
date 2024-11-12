@@ -14,9 +14,9 @@ The project aims to verify key functionalities and ensure a consistent user expe
 ## Running Tests
 
 To run it interactivly:
-npx cypress open
+npm run cypress:open
 
 To run it headless:
-npx cypress run
+npm run test
 
 

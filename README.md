@@ -7,6 +7,7 @@ The project aims to verify key functionalities and ensure a consistent user expe
 
 1. Clone the repository:
    git clone https://github.com/Alex-Malai/take-home-assignment.git
+   cd take-home-assignment
    
 3. Install dependencies:
    npm install
